@@ -21,12 +21,10 @@ The following **optional** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented features:
-
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4cnzp9D-gBY?si=0AnWr30CuyLwE1cg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+Video created with OBS
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -34,8 +32,7 @@ GIF created with ...
 
 ## Notes
 
-Describe any challenges encountered while building the app.
-
+not many issues
 ## License
 
     Copyright [2023] [nick]
