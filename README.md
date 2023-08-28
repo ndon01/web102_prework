@@ -21,7 +21,8 @@ The following **optional** features are implemented:
 
 ## Video Walkthrough
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4cnzp9D-gBY?si=0AnWr30CuyLwE1cg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[![WATCH](https://img.youtube.com/vi/4cnzp9D-gBY/0.jpg)](https://www.youtube.com/watch?v=4cnzp9D-gBY)
+
 
 <!-- Replace this with whatever GIF tool you used! -->
 Video created with OBS
