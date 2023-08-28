@@ -24,7 +24,7 @@ The following **optional** features are implemented:
 GIF:
 
 [![GIF](https://i.imgur.com/XegqRbg.gif)](https://i.imgur.com/XegqRbg.gif)
-
+https://i.imgur.com/XegqRbg.gif
 
 Youtube Video
 [![WATCH](https://img.youtube.com/vi/4cnzp9D-gBY/0.jpg)](https://www.youtube.com/watch?v=4cnzp9D-gBY)
